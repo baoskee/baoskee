@@ -1,5 +1,8 @@
+I’m a designer and engineer deeply committed to building tools that empower individuals. 
+I spend most of my time experimenting with how good design could make life better. 
+After all, the purpose of technology is to elevate our life to answer higher questions.
 
-Between the idea <br>
+> Between the idea <br>
 and the reality <br>
 between the motion <br>
 and the act <br>
